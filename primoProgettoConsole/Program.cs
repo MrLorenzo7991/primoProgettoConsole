@@ -6,3 +6,5 @@ Console.Write("Aggiungi un nome: ");  //stesssa cosa ma dopo non va a capo (scri
 var testo = Console.ReadLine();  //Legge un input da console e lo inserisce in una variabile "testo"
 
 Console.WriteLine("Il tuo nome è " + testo);
+
+Console.WriteLine("Mignottone pazzoooo");
